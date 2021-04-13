@@ -1,11 +1,12 @@
-![loading](https://user-images.githubusercontent.com/45368708/114598890-cb85af80-9c68-11eb-8ee7-2d7c5054d13e.jpg)
+![loading bar](https://user-images.githubusercontent.com/45368708/114599079-038cf280-9c69-11eb-8fba-6063115380fe.jpg)
+
 
 
 
 
 
 ### Hey there 👋
-**🎮 Quiero cumplir mi sueño de ser Unity Dev 🎮**
+**🎮 Futuro desarrollador de videojuegos 🎮**
 
 Actualmente estoy estudiando la carrera de Desarrollo de Software y aprendiendo _**Unity**_ para poder crear videojuegos.
 
