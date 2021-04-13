@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there 👋
+**🎮 Quiero cumplir mi sueño de ser Unity Dev 🎮**
 
-<!--
-**devramirogomez/devramirogomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estoy estudiando la carrera de Desarrollo de Software y aprendiendo _**Unity**_ para poder crear videojuegos.
 
-Here are some ideas to get you started:
+A lo largo de estos años pude aprender:
+- HTML
+- CSS
+- JavaScript
+- C#
+- NodeJS
+- SQL 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 🧐 En mis ratos libres me gusta jugar videojuegos, andar en bicicleta y leer.
