@@ -18,5 +18,5 @@ A lo largo de estos años pude aprender:
 - NodeJS
 - SQL 
 
-##### 🧐 En mis ratos libres me gusta jugar videojuegos, andar en bicicleta y leer.
+#### 🧐 En mis ratos libres me gusta jugar videojuegos, andar en bicicleta y leer.
 
