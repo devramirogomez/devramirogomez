@@ -5,8 +5,8 @@
 
 
 
-### 'Hello World'👋 Soy Ram
-**🎮 Futuro desarrollador de videojuegos 🎮**
+### Hola! 👋 Soy Ram
+**🎮 En futuro voy a ser desarrollador de videojuegos 🎮**
 
 Actualmente estoy estudiando la carrera de Desarrollo de Software y aprendiendo _**Unity**_ para poder crear videojuegos.
 
