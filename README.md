@@ -21,5 +21,5 @@ A lo largo de estos años pude aprender:
 #### 🧐 En mis ratos libres me gusta jugar videojuegos, andar en bicicleta y leer.
 
 
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramgallagher&hide=contribs,prs&theme=dracula&border_radius=2&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramgallagher&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramgallagher&layout=compact&hide=contribs,prs&theme=dracula&border_radius=10&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramgallagher&border_radius=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
